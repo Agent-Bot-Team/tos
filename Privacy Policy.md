@@ -1,36 +1,53 @@
-# Chính sách bảo mật
-1. Dữ liệu được thu thập:
+### Chính sách bảo mật (Privacy Policy)
 
-    Để phục vụ cho mục đích thống kê và phát triển ứng dụng, Discord Bot sẽ thu thập các thông tin bao gồm: UserID, Username và GuildID. Các dữ liệu này được sử dụng để cải thiện chất lượng và tính năng của bot.
+#### I. Mục đích và phạm vi thu thập dữ liệu
 
-2. Mục đích sử dụng dữ liệu:
+Agent Bot Team Các dữ liệu thu thập chỉ được sử dụng trong nội bộ để hỗ trợ thống kê và phát triển sản phẩm, nhằm nâng cao trải nghiệm người dùng. Các dữ liệu bao gồm:
 
-    Các dữ liệu thu thập chỉ được sử dụng trong nội bộ để hỗ trợ thống kê và phát triển sản phẩm, nhằm nâng cao trải nghiệm người dùng. Chúng tôi cam kết không chia sẻ dữ liệu này với bên thứ ba khi chưa có sự đồng ý của bạn, trừ trường hợp cần thiết theo yêu cầu pháp luật.
+1. **Dữ liệu game**  
+   - Ghi nhận các thông tin liên quan đến các trò chơi như bài cào, xì dách, memory game. Thông tin bao gồm: thời gian chơi, số tiền cược hoặc thắng, thông tin về các lá bài sử dụng trong trò chơi, và các kết quả của người chơi.
 
-3. Quyền riêng tư của người dùng:
+2. **Dữ liệu giao dịch AG Money**  
+   - Ghi nhận các giao dịch liên quan đến AG Money như nhận, gửi, hoặc thu hồi tiền giữa các bên trong hệ sinh thái.
 
-    Chúng tôi cam kết bảo vệ quyền riêng tư của người dùng và đảm bảo rằng dữ liệu cá nhân của bạn sẽ được lưu trữ và xử lý an toàn.
+3. **Thông tin chung về người dùng**  
+   - Bao gồm các thông tin như Guild ID, User ID, Channel ID để hỗ trợ quản lý và vận hành bot.
 
-4. Thay đổi chính sách:
+4. **Thông tin về các trò chơi nối từ và nối số**  
+   - Lưu trữ các từ và số đã được sử dụng trong các trò chơi nối từ hoặc nối số để đảm bảo tính công bằng và tránh trùng lặp.
 
-    Chính sách bảo mật có thể được cập nhật thường xuyên để phù hợp với các thay đổi trong sản phẩm và yêu cầu pháp lý. Chúng tôi sẽ thông báo các thay đổi qua các kênh truyền thông phù hợp.
+#### II. Cam kết bảo mật
 
------
+1. **Bảo mật thông tin người dùng**  
+   - Agent Bot Team cam kết bảo vệ thông tin cá nhân và dữ liệu của người dùng, không cung cấp cho bên thứ ba trừ khi có yêu cầu từ cơ quan pháp luật có thẩm quyền.
 
-# Privacy Policy
+2. **Cập nhật và thay đổi chính sách**  
+   - Các điều khoản và chính sách bảo mật có thể được thay đổi để phù hợp với các yêu cầu mới hoặc cải thiện chất lượng dịch vụ. Agent Bot Team sẽ thông báo trước về các thay đổi này nếu có.
 
-1. Data Collected
+---
 
-    To serve the purpose of statistical analysis and application development, the Discord Bot collects information including UserID, Username, and GuildID. This data is used to improve the quality and features of the bot.
+### Privacy Policy
 
-2. Purpose of Data Use
+#### I. Purpose and Scope of Data Collection
 
-    The data collected is solely for internal use to support statistical analysis and product development, aiming to enhance user experience. We commit not to share this data with third parties without your consent, except when required by law.
+Agent Bot Team collects and stores certain data necessary to provide services and ensure user security, including:
 
-3. User Privacy
+1. **Game Data**  
+   - Information related to games such as scratch cards, blackjack, and memory games. Collected data includes: game timestamps, wagered or won amounts, card details used during the game, and player outcomes.
 
-    We are committed to protecting user privacy and ensuring that your personal data is securely stored and processed.
+2. **AG Money Transaction Data**  
+   - Information about AG Money transactions, including receiving, sending, or reclaiming currency within the ecosystem.
 
-3. Policy Changes
+3. **General User Information**  
+   - This includes Guild ID, User ID, and Channel ID, which supports bot management and operation.
 
-    The Privacy Policy may be updated regularly to align with product changes and legal requirements. We will notify you of any changes through appropriate communication channels.
+4. **Word/Number Game Data**  
+   - Records of words and numbers previously used in word or number games to ensure fairness and avoid repetitions.
+
+#### II. Data Protection Commitments
+
+1. **User Data Privacy**  
+   - Agent Bot Team is committed to safeguarding personal information and user data, and will only disclose it upon lawful requests from authorized authorities.
+
+2. **Policy Updates and Changes**  
+   - These terms and privacy policies may be updated to reflect new requirements or to improve service quality. Agent Bot Team will provide notice of any changes in advance if applicable.
