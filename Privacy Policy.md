@@ -1,53 +1,42 @@
-### Chính sách bảo mật (Privacy Policy)
+### Chính Sách Bảo Mật
 
-#### I. Mục đích và phạm vi thu thập dữ liệu
+**1. Thông Tin Được Thu Thập**
+   - Để đảm bảo dịch vụ hoạt động hiệu quả, Agent Bot Team có thể thu thập các dữ liệu sau từ người dùng:
+      - **Thông tin trò chơi**: Bao gồm các dữ liệu về các ván bài cào, xì dách, và memory game như thời gian thực hiện, số tiền cược, kết quả, và thông tin về các lá bài được sử dụng.
+      - **Thông tin giao dịch AG Money**: Lịch sử các giao dịch nhận, thu, hoặc chuyển AG Money giữa người dùng và Agent Bot.
+      - **Thông tin chung**: Guild ID, User ID, Channel ID để quản lý và cung cấp dịch vụ tốt hơn cho người dùng.
+      - **Dữ liệu từ trò chơi nối từ hoặc nối số**: Thông tin về các từ và số đã được sử dụng trong các trò chơi này nhằm duy trì tính liên tục và tránh lặp lại.
 
-Agent Bot Team Các dữ liệu thu thập chỉ được sử dụng trong nội bộ để hỗ trợ thống kê và phát triển sản phẩm, nhằm nâng cao trải nghiệm người dùng. Các dữ liệu bao gồm:
+**2. Mục đích sử dụng dữ liệu**
+   - Các thông tin được thu thập chỉ được sử dụng cho các mục đích nội bộ nhằm cải thiện chất lượng dịch vụ và đảm bảo hoạt động của Agent Bot.
+   - Agent Bot Team cam kết không chia sẻ, bán, hoặc tiết lộ thông tin của người dùng cho bên thứ ba, trừ khi có yêu cầu từ cơ quan pháp luật có thẩm quyền.
 
-1. **Dữ liệu game**  
-   - Ghi nhận các thông tin liên quan đến các trò chơi như bài cào, xì dách, memory game. Thông tin bao gồm: thời gian chơi, số tiền cược hoặc thắng, thông tin về các lá bài sử dụng trong trò chơi, và các kết quả của người chơi.
+**3. Bảo mật thông tin**
+   - Agent Bot Team cam kết bảo mật thông tin của người dùng và áp dụng các biện pháp bảo vệ hợp lý để ngăn chặn truy cập trái phép hoặc sử dụng sai mục đích.
+   - Thông tin chỉ được truy cập bởi những cá nhân có trách nhiệm và chỉ dùng cho mục đích bảo trì và cải thiện dịch vụ.
 
-2. **Dữ liệu giao dịch AG Money**  
-   - Ghi nhận các giao dịch liên quan đến AG Money như nhận, gửi, hoặc thu hồi tiền giữa các bên trong hệ sinh thái.
+**4. Thay đổi chính sách bảo mật**
+   - Agent Bot Team có quyền thay đổi chính sách bảo mật bất kỳ lúc nào để phù hợp với thực tế hoạt động và quy định của pháp luật. Người dùng sẽ được thông báo về bất kỳ thay đổi nào, và việc tiếp tục sử dụng dịch vụ sẽ được xem là đồng ý với chính sách bảo mật mới.
 
-3. **Thông tin chung về người dùng**  
-   - Bao gồm các thông tin như Guild ID, User ID, Channel ID để hỗ trợ quản lý và vận hành bot.
+-----
 
-4. **Thông tin về các trò chơi nối từ và nối số**  
-   - Lưu trữ các từ và số đã được sử dụng trong các trò chơi nối từ hoặc nối số để đảm bảo tính công bằng và tránh trùng lặp.
-
-#### II. Cam kết bảo mật
-
-1. **Bảo mật thông tin người dùng**  
-   - Agent Bot Team cam kết bảo vệ thông tin cá nhân và dữ liệu của người dùng, không cung cấp cho bên thứ ba trừ khi có yêu cầu từ cơ quan pháp luật có thẩm quyền.
-
-2. **Cập nhật và thay đổi chính sách**  
-   - Các điều khoản và chính sách bảo mật có thể được thay đổi để phù hợp với các yêu cầu mới hoặc cải thiện chất lượng dịch vụ. Agent Bot Team sẽ thông báo trước về các thay đổi này nếu có.
-
----
 
 ### Privacy Policy
 
-#### I. Purpose and Scope of Data Collection
+**1. Information Collected**
+   - To ensure effective operation of the service, Agent Bot Team may collect the following data from users:
+      - **Game information**: This includes data about card games, blackjack, and memory games, such as timestamps, bets placed, results, and information about cards used.
+      - **AG Money transaction information**: Records of AG Money transactions, including receiving, withdrawing, or transferring AG Money between users and Agent Bot.
+      - **General information**: Guild ID, User ID, Channel ID to manage and provide better service to users.
+      - **Word or Number game data**: Information about words and numbers used in these games to maintain game continuity and prevent repetition.
 
-Agent Bot Team collects and stores certain data necessary to provide services and ensure user security, including:
+**2. Purpose of data use**
+   - Collected information is only used for internal purposes to improve service quality and ensure Agent Bot’s functionality.
+   - Agent Bot Team commits not to share, sell, or disclose user information to third parties, except under requests by authorized legal agencies.
 
-1. **Game Data**  
-   - Information related to games such as scratch cards, blackjack, and memory games. Collected data includes: game timestamps, wagered or won amounts, card details used during the game, and player outcomes.
+**3. Data security**
+   - Agent Bot Team is committed to safeguarding user information and applies reasonable protection measures to prevent unauthorized access or misuse.
+   - Information is only accessed by responsible individuals and used solely for service maintenance and enhancement.
 
-2. **AG Money Transaction Data**  
-   - Information about AG Money transactions, including receiving, sending, or reclaiming currency within the ecosystem.
-
-3. **General User Information**  
-   - This includes Guild ID, User ID, and Channel ID, which supports bot management and operation.
-
-4. **Word/Number Game Data**  
-   - Records of words and numbers previously used in word or number games to ensure fairness and avoid repetitions.
-
-#### II. Data Protection Commitments
-
-1. **User Data Privacy**  
-   - Agent Bot Team is committed to safeguarding personal information and user data, and will only disclose it upon lawful requests from authorized authorities.
-
-2. **Policy Updates and Changes**  
-   - These terms and privacy policies may be updated to reflect new requirements or to improve service quality. Agent Bot Team will provide notice of any changes in advance if applicable.
+**4. Changes to the Privacy Policy**
+   - Agent Bot Team reserves the right to modify the Privacy Policy at any time to suit operational requirements and legal regulations. Users will be informed of any changes, and continued use of the service will be considered acceptance of the new policy.

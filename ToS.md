@@ -1,109 +1,75 @@
-### Điều khoản dịch vụ (Terms of Service)
+### Điều Khoản Dịch Vụ
 
-#### I. Định nghĩa
+**1. Định Nghĩa**
+   - **Agent Bot Team**: Là đội ngũ phát triển và vận hành dịch vụ Agent Bot và Agent Fake trên nền tảng Discord.
+   - **Người dùng**: Là cá nhân sử dụng các dịch vụ của Agent Bot hoặc Agent Fake thông qua nền tảng Discord.
+   - **Nền tảng**: Là nền tảng Discord, nơi diễn ra các hoạt động tương tác giữa người dùng và Agent Bot hoặc Agent Fake.
+   - **Dịch vụ**: Là hệ sinh thái Agent, bao gồm Agent Bot (tài khoản chính) và Agent Fake (tài khoản bot beta đang hoạt động), cũng như đơn vị tiền tệ ảo AG Money (Agent Money).
 
-1. **Agent Bot Team**: Là nhóm phát triển và vận hành hệ sinh thái Agent. Agent Bot Team cung cấp dịch vụ, bao gồm các chức năng của bot và đơn vị tiền tệ ảo trong Discord.
-    
-2. **Người dùng**: Là bất kỳ cá nhân nào sử dụng dịch vụ của hệ sinh thái Agent. Người dùng phải đảm bảo đủ tuổi theo quy định và tuân thủ các điều khoản dịch vụ này cũng như Điều khoản dịch vụ (ToS) của Discord.
+**2. Chấp nhận điều khoản sử dụng**
+   - Khi sử dụng Agent Bot hoặc Agent Fake, người dùng mặc định đồng ý với tất cả các điều khoản và chính sách được quy định tại đây. Nếu không đồng ý, người dùng nên ngừng sử dụng dịch vụ ngay lập tức.
 
-3. **Dịch vụ**: Hệ sinh thái của Agent do Agent Bot Team cung cấp, bao gồm:
-    - **Agent Bot**:  Tài khoản bot chính trong hệ sinh thái Agent. Agent Bot hiện đang trong trạng thái maintained (được duy trì).
-    - **Agent Fake**: Tài khoản bot beta trong hệ sinh thái Agent. Đây là tài khoản bot đang hoạt động chính thức và hỗ trợ kiểm thử các tính năng mới của hệ sinh thái Agent.
-    - **AG Money**: Đơn vị tiền tệ ảo trong hệ sinh thái Agent, được sử dụng trong các hoạt động nội bộ của bot.
+**3. Tuổi tối thiểu**
+   - Người dùng phải từ 13 tuổi trở lên để sử dụng dịch vụ, theo yêu cầu của nền tảng Discord. Vi phạm độ tuổi sẽ dẫn đến việc ngừng cung cấp dịch vụ ngay lập tức mà không cần thông báo trước.
 
-4. **Nền tảng**: Dịch vụ của Agent Bot Team được cung cấp và hoạt động trên nền tảng Discord, dưới dạng các tài khoản bot tương tác với người dùng thông qua các lệnh và tính năng hỗ trợ.
+**4. Quy định sử dụng dịch vụ**
+   - Người dùng phải tuân thủ tất cả các điều khoản và quy định của Agent Bot Team trong quá trình sử dụng dịch vụ.
+   - Mọi hành vi vi phạm, bao gồm gian lận, lạm dụng, hoặc gây ảnh hưởng xấu đến dịch vụ hoặc người dùng khác, sẽ bị xử lý nghiêm minh và có thể dẫn đến việc thu hồi AG Money, tạm ngưng hoặc chấm dứt quyền sử dụng dịch vụ của người dùng.
 
-#### II. Điều kiện sử dụng dịch vụ
+**5. Giá trị và giới hạn chuyển đổi của AG Money**
+   - AG Money là tiền tệ ảo do Agent Bot Team phát hành và quản lý, chỉ có giá trị trong hệ sinh thái Agent.
+   - Người dùng không được phép chuyển đổi bất kỳ vật phẩm, tài sản hay hiện vật nào, bao gồm vật phẩm kỹ thuật số hoặc vật phẩm vật lý, thành AG Money. AG Money không có giá trị ngoài nền tảng Discord và không thể quy đổi thành tiền mặt, hàng hóa, hoặc dịch vụ ngoài hệ sinh thái của Agent Bot.
+   - Agent Bot Team có toàn quyền kiểm soát và quyết định việc phát hành, thu hồi, hoặc tạm ngừng sử dụng AG Money mà không cần thông báo trước.
 
-1. **Đồng ý sử dụng dịch vụ**  
-    Khi người dùng thực hiện bất kỳ hành động nào sử dụng hệ sinh thái của Agent, điều đó đồng nghĩa với việc người dùng đã đọc, hiểu và đồng ý với toàn bộ các điều khoản dịch vụ và chính sách bảo mật này.  
+**6. Quyền thu hồi tài khoản và AG Money**
+   - Agent Bot Team có quyền thu hồi tài khoản hoặc AG Money của người dùng nếu phát hiện hành vi vi phạm điều khoản dịch vụ hoặc nhận được nhiều báo cáo đáng tin cậy về hành vi vi phạm của người dùng.
+   - Người dùng có quyền kháng cáo trong các trường hợp bị xử lý vi phạm; tuy nhiên, phán quyết cuối cùng vẫn thuộc về Agent Bot Team.
 
-2. **Tuân thủ Điều khoản dịch vụ của Discord**  
-    Mọi người dùng phải tuân thủ Điều khoản dịch vụ (ToS) của Discord khi sử dụng Agent Bot và các tính năng của nó.
+**7. Hỗ trợ người dùng và giải quyết tranh chấp**
+   - Agent Bot Team có trách nhiệm hỗ trợ người dùng trong trường hợp xảy ra tranh chấp, ngoại trừ các trường hợp từ chối giải quyết đã được nêu ở mục 8.
+   - Trong quá trình hỗ trợ, Agent Bot Team sẽ đưa ra các phán quyết công bằng và minh bạch dựa trên thông tin và quy định hiện có. Tuy nhiên, mọi quyết định cuối cùng trong tranh chấp sẽ thuộc về Agent Bot Team.
 
-3. **Độ tuổi tối thiểu**  
-    Người dùng phải đạt độ tuổi tối thiểu là 13 để sử dụng dịch vụ. Nếu phát hiện vi phạm về độ tuổi, dịch vụ sẽ ngưng cung cấp và tài khoản sẽ bị chặn.
+**8. Từ chối giải quyết**
+   - Các trường hợp vi phạm điều khoản của Agent Bot hoặc liên quan đến hành vi gian lận (bao gồm cả việc lừa đảo hoặc bị lừa đảo) sẽ bị từ chối xử lý. Điều này nhằm đảm bảo tính minh bạch và công bằng trong việc quản lý dịch vụ.
 
-4. **Trách nhiệm tuân thủ điều khoản**  
-    Người dùng có trách nhiệm tuân thủ các quy định của Agent Bot Team. Bất kỳ hành vi vi phạm nào cũng sẽ bị xử lý nghiêm minh, không nhân nhượng, và có thể dẫn đến các hình phạt từ chặn tài khoản, thu hồi AG Money, hoặc cấm sử dụng dịch vụ vĩnh viễn.
+**9. Thay đổi điều khoản**
+   - Agent Bot Team có quyền cập nhật hoặc thay đổi các điều khoản dịch vụ bất cứ lúc nào để phù hợp với yêu cầu của nền tảng hoặc pháp luật hiện hành. Khi có thay đổi, người dùng sẽ được thông báo và việc tiếp tục sử dụng dịch vụ sẽ được xem là chấp nhận điều khoản mới.
 
-#### III. Chính sách về AG Money
-
-1. **Định nghĩa và phạm vi sử dụng**  
-    AG Money là một đơn vị tiền tệ ảo chỉ có giá trị và được sử dụng trong hệ sinh thái Agent. AG Money không có giá trị quy đổi thành tiền tệ thật hoặc bất kỳ vật phẩm hiện vật nào, bao gồm cả vật phẩm kỹ thuật số hoặc vật lý.
-
-2. **Phương thức kiếm AG Money**  
-    Người dùng có thể kiếm AG Money thông qua các hoạt động sau:
-    - Thực hiện các lệnh hàng ngày như `daily` hoặc `work`.
-    - Tham gia các trò chơi như bài cào, xì dách, memory game.
-    - Thực hiện chuyển AG Money giữa người dùng với nhau, hoặc giữa bot và người dùng.
-
-3. **Giới hạn giao dịch AG Money**  
-    Mỗi giao dịch chuyển tiền giữa người dùng với người dùng sẽ có giới hạn tối đa là 10,000,000 AG Money.
-
-#### IV. Quyền và nghĩa vụ của Agent Bot Team
-
-1. **Quyền thu hồi và xử lý vi phạm**  
-    Agent Bot Team có quyền thu hồi tài khoản hoặc AG Money của người dùng nếu phát hiện người dùng có hành vi vi phạm hoặc nhận được nhiều tố cáo về hành vi không tuân thủ điều khoản dịch vụ.
-
-2. **Quyền kháng cáo**  
-    Người dùng có quyền kháng cáo đối với các quyết định xử phạt của Agent Bot Team. Tuy nhiên, quyết định cuối cùng vẫn thuộc về Agent Bot Team và sẽ được thực hiện dựa trên các bằng chứng và thông tin liên quan.
-
-3. **Hỗ trợ và giải quyết vấn đề**  
-    Agent Bot Team cam kết hỗ trợ người dùng trong các vấn đề liên quan đến bot. Tuy nhiên, trong các trường hợp vi phạm điều khoản hoặc lừa đảo (scam), kể cả là người dùng chủ động hoặc bị lừa đảo, Agent Bot Team có quyền từ chối hỗ trợ và sẽ không can thiệp vào các tranh chấp cá nhân giữa người dùng.
-
----
+-----
 
 ### Terms of Service
 
-#### I. Definitions
+**1. Definitions**
+   - **Agent Bot Team**: Refers to the team responsible for developing and operating the Agent Bot and Agent Fake services on the Discord platform.
+   - **User**: An individual utilizing the Agent Bot or Agent Fake services through the Discord platform.
+   - **Platform**: The Discord platform, where interactions between users and Agent Bot or Agent Fake occur.
+   - **Service**: The Agent ecosystem, which includes Agent Bot (the main account) and Agent Fake (the active beta bot account), as well as the virtual currency AG Money (Agent Money).
 
-1. **Agent Bot Team**: The development team responsible for maintaining and operating the Agent ecosystem. Agent Bot Team provides the bot functions and manages the virtual currency within the Discord platform.
-   
-2. **User**: Any individual who utilizes the Agent ecosystem services. Users must ensure they meet the minimum age requirement and comply with these Terms of Service and Discord's Terms of Service (ToS).
+**2. Acceptance of Terms of Service**
+   - By using Agent Bot or Agent Fake, users agree to all terms and policies outlined here. If a user disagrees, they should cease using the service immediately.
 
-3. **Service**: The Agent ecosystem provided by Agent Bot Team, which includes:
-   - **Agent Bot**: The primary bot account in the Agent ecosystem. Currently, Agent Bot is in a **maintained** (support-only) state.
-   - **Agent Fake**: The beta bot account within the Agent ecosystem. This is the **active bot** account, primarily used for testing and implementing new features.
-   - **AG Money**: The virtual currency used within the Agent ecosystem, available exclusively for internal bot activities and user interactions.
+**3. Minimum age requirement**
+   - Users must be at least 13 years old to use the service, per Discord platform requirements. Violations of the age requirement will result in immediate service termination without prior notice.
 
-4. **Platform**: The Agent Bot Team services are provided and operate on the Discord platform, with bot accounts interacting with users via commands and supported features.
+**4. Service usage rules**
+   - Users are required to comply with all terms and regulations set by Agent Bot Team during their use of the service.
+   - Any violation, including fraud, abuse, or actions that negatively impact the service or other users, will be strictly addressed and may result in revocation of AG Money, suspension, or termination of the user’s access to the service.
 
-#### II. Terms of Use
+**5. Value and Prohibited asset conversion of AG Money**
+   - AG Money is a virtual currency issued and managed by Agent Bot Team, with value only within the Agent ecosystem.
+   - Users are prohibited from converting any items, assets, or tangible goods, including digital or physical items, into AG Money. AG Money has no value outside the Discord platform and cannot be exchanged for cash, goods, or services outside of the Agent Bot ecosystem.
+   - Agent Bot Team reserves full rights to control, issue, withdraw, or suspend the use of AG Money without prior notice.
 
-1. **Agreement to Use Services**  
-   By using the services within the Agent ecosystem, users indicate that they have read, understood, and agreed to these Terms of Service and Privacy Policy.
+**6. Account and AG Money revocation rights**
+   - Agent Bot Team has the right to revoke a user’s account or AG Money if there is evidence of violations of the Terms of Service or if the user is reliably reported for misconduct multiple times.
+   - Users have the right to appeal decisions related to violations; however, final judgment remains with Agent Bot Team.
 
-2. **Compliance with Discord Terms of Service**  
-   All users must adhere to Discord's Terms of Service (ToS) when using Agent Bot and its features.
+**7. User support and dispute resolution**
+   - Agent Bot Team is responsible for supporting users in the event of disputes, except in cases of violation as stated in Section 8.
+   - In providing support, Agent Bot Team will make fair and transparent decisions based on current information and regulations. However, all final decisions in disputes rest with Agent Bot Team.
 
-3. **Minimum Age Requirement**  
-   Users must be at least 13 years old to use the service. If a violation of this minimum age requirement is detected, the service will be immediately discontinued, and the account will be restricted.
+**8. Refusal of service**
+   - Cases involving violations of Agent Bot's terms or fraudulent actions (including scamming or being scammed) will not be addressed. This policy ensures transparency and fairness in managing the service.
 
-4. **Responsibility to Comply with Terms**  
-   Users are responsible for following Agent Bot Team's rules. Any violations will be strictly enforced, without leniency, and may result in penalties such as account suspension, AG Money revocation, or permanent service bans.
-
-#### III. AG Money Policy
-
-1. **Definition and Scope of Use**  
-   AG Money is a virtual currency with value and use limited exclusively within the Agent ecosystem. AG Money holds no value outside the ecosystem and cannot be converted into real-world currency or any physical or digital items.
-
-2. **Methods of Earning AG Money**  
-   Users can earn AG Money through the following activities:
-   - Using daily commands, such as `daily` or `work`.
-   - Participating in games, such as scratch cards, blackjack, and memory games.
-   - Transferring AG Money between users, or between the bot and users.
-
-3. **AG Money Transaction Limits**  
-   Each AG Money transaction between users is limited to a maximum of 10,000,000 AG Money.
-
-#### IV. Rights and Responsibilities of Agent Bot Team
-
-1. **Right to Revoke and Penalize Violations**  
-   Agent Bot Team reserves the right to revoke user accounts or AG Money if users engage in behavior that violates these terms or if multiple complaints of non-compliance are received.
-
-2. **Right to Appeal**  
-   Users have the right to appeal Agent Bot Team’s penalties. However, final decisions will be made by Agent Bot Team based on relevant evidence and information.
-
-3. **Support and Issue Resolution**  
-   Agent Bot Team is committed to assisting users with bot-related issues. However, in cases involving violations of these terms or scams, including both users actively engaging in scams and users who were scammed, Agent Bot Team reserves the right to deny support and will not intervene in personal disputes between users.
+**9. Changes to Terms of Service**
+   - Agent Bot Team reserves the right to update or change the Terms of Service at any time to meet platform or legal requirements. Users will be informed of any changes, and continued use of the service will be considered acceptance of the new terms.
